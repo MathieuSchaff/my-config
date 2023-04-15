@@ -17,7 +17,7 @@ Neovim is a highly configurable text editor that I use for programming and editi
 - CMake version 3.10+, built with TLS/SSL support
   - Optional: Get the latest CMake from an installer or the Python package (`pip install cmake`)
 
-2. Ubuntu / Debian
+2. Ubuntu / Debian / Tuxedo
 
 ```sh
 sudo apt-get install ninja-build gettext cmake unzip curl

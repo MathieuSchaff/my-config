@@ -1,0 +1,64 @@
+( : ù
+
+) : shift ù
+
+{ :  *
+
+[ : shift *
+
+} : $
+
+] : shift $
+
+° : altgr ]
+
+$ : shift 5
+
+` : §
+
+* : shift 2
+
+}: shift $
+
+|:
+
+`: shift !
+
+\:
+
+% : shift n
+
+@
+
+
+
+<> : ^¨ intervertit
+
+remap macro de ù en ( et % en )
+
+
+remap de * en { et µ }
+
+' et 4 inversé
+
+& et 1 inversé
+
+' et 4 inversé
+
+
+é : shift 6
+
+è
+
+ù : shift 8
+
+ç
+
+à
+
+To erase a single macro, program an “empty” macro in the macro triggers place. Follow these steps:
+
+1. Press and hold Progrm and tap F11.
+2. Press the macro trigger.
+3. Exit by repeating step 1.
+
